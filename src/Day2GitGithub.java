@@ -14,7 +14,7 @@ public class Day2GitGithub {
          git push -u origin master
 
          NOT:Yukaridaki iki komutu tek seferde kullandiktan sonra ikinci commitlerim icin
-         sadece git push kullaniriz
+         sadece git push kullaniriz.
 
 
      */
