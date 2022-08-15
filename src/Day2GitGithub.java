@@ -1,4 +1,6 @@
 public class Day2GitGithub {
+
+
     /*
         1-) git init local repo olusturmak icin yani git ile klasorumuzun icindeki dosyalari
         iliskilendirmek icin kullanilir
@@ -16,4 +18,7 @@ public class Day2GitGithub {
 
 
      */
+    public static void main(String[] args) {
+        System.out.println("GitHub'i da ogrendim");
+    }
 }
