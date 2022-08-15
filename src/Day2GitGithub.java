@@ -15,6 +15,7 @@ public class Day2GitGithub {
          https://github.com/ilknuray/deneme3.git
          NOT:Yukaridaki iki komutu tek seferde kullandiktan sonra ikinci commitlerim icin
          sadece git push kullaniriz.
+         6-)git pull remote yani uzak repo dosyalarimizi guncellemek icin kullanilir
 
 
      */
