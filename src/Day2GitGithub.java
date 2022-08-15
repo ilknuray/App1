@@ -11,6 +11,7 @@ public class Day2GitGithub {
         4-)git push -->uzak repo ya yani remote github gondermek icin kullandigimiz
         kod git komutunu direk kullanmak istersek
          1 kez git remote add origin adress
+         git push u-origin master
          https://github.com/ilknuray/deneme3.git
          NOT:Yukaridaki iki komutu tek seferde kullandiktan sonra ikinci commitlerim icin
          sadece git push kullaniriz.
@@ -18,6 +19,6 @@ public class Day2GitGithub {
 
      */
     public static void main(String[] args) {
-        System.out.println("GitHub'i da ogrendim");
+        System.out.println("GitHub'i da ogrendim...");
     }
 }
