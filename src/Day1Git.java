@@ -6,6 +6,7 @@ public class Day1Git {
         System.out.println("Hello Git 4. Deneme");
         System.out.println("bir de branch i deneyelim");
         System.out.println("hello");
+        System.out.println("master");
 
     }
 }
